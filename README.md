@@ -26,10 +26,16 @@ Here's a walkthrough of implemented user stories:
 
 <img src='http://g.recordit.co/rx5X0rIL1D.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
 
+
 Another
+
+
 <img src='http://g.recordit.co/S4P0VhyeD6.gif' title='Video Walkthrough 2' width='' alt='Video Walkthrough 2' />
 
+
 And anther
+
+
 <img src='http://g.recordit.co/Hl9cFHevz0.gif' title='Video Walkthrough 3' width='' alt='Video Walkthrough 3' />
 
 # twitter-clone
