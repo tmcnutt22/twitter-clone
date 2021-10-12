@@ -16,6 +16,10 @@
 	<string>APPL</string>
 	<key>CFBundleShortVersionString</key>
 	<string>1.0</string>
+	<key>ConsumerKey</key>
+	<string>sdSQJXBcoz6uSlMICe703ELDP</string>
+	<key>ConsumerSecret</key>
+	<string>HHAj0ctzG427aBi8fdgLjYKgbjOis5LUWqDCMJPAReVoTIWREB</string>
 	<key>CFBundleURLTypes</key>
 	<array>
 		<dict>
